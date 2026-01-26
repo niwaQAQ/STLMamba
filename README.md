@@ -1,1 +1,2 @@
 # STLMamba
+Local-Motion Mamba with Frequency-Guided for Moving Infrared Small Target Detection
