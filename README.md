@@ -1,4 +1,4 @@
 # STLMamba
-Local-Motion Mamba with Frequency-Guided for Moving Infrared Small Target Detection
+(GRSL)Local-Motion Mamba with Frequency-Guided for Moving Infrared Small Target Detection
 ![pipeline](pipeline.png)
 The pipeline of STLMamba.
